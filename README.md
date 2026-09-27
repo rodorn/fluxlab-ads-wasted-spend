@@ -137,4 +137,4 @@ Kod wewnetrzny FluxLab. Wszelkie prawa zastrzezone.
 
 ---
 
-Zbudowane przez FluxLab, https://fluxlab.pl. Automatyzacja procesow i wdrozenia AI dla malych firm.
+Zbudowane przez FluxLab, https://fluxlab.pl. Wersja online tego audytu: https://fluxlab.pl/audyt-google-ads. Automatyzacja procesow i wdrozenia AI dla malych firm.
