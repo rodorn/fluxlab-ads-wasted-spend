@@ -134,3 +134,7 @@ python -m pytest -q
 ## Licencja
 
 Kod wewnetrzny FluxLab. Wszelkie prawa zastrzezone.
+
+---
+
+Zbudowane przez FluxLab, https://fluxlab.pl. Automatyzacja procesow i wdrozenia AI dla malych firm.
